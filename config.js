@@ -49,9 +49,9 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "I cant wait to celebrate valentines with you. 🎉💝💖💝💓",
+        title: "I cant wait to spend valentines with you. 🎉💝💖💝💓",
         message: "Sending you lots of kisses Chatanki!",
-        emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
+        emojis: "💖🤗❤️💕"  // These will bounce around
     },
 
     // Color scheme for the website
